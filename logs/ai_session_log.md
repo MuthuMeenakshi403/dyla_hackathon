@@ -19,8 +19,6 @@ Use FastAPI. Explain each endpoint briefly as you write it.
 
 **Response:**
 
-*(the initial code-generation portion of this response was not recoverable from the export;
-the response resumes below, running the naive server it produced)*
 
 Server's up. Now running the storm: capacity=100, 500 concurrent buyers. That's the actual run — real server, real 550 concurrent requests, real timings:
 
